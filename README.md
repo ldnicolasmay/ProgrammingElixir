@@ -1,1 +1,4 @@
 # ProgrammingElixir
+
+Elixir scripts and modules for following along with Dave Thomas's _Programming Elixir >= 1.6_.
+
